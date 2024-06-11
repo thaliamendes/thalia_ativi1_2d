@@ -1,0 +1,25 @@
+body{background-color: cadetblue;
+}
+h1{color: black;
+}
+
+.p3{text-align: center;
+    font-size: 150%;
+    color: cyan;
+}
+.p1{border-width: 10px;
+    border-color: blueviolet;
+    border-style: double;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 15%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.p1{background-color: aqua;
+}
+.p4{color: darkorchid;
+}
+.p2{color: aquamarine;
+}
