@@ -6,6 +6,14 @@ h1{color: black;
 .p3{text-align: center;
     font-size: 150%;
     color: cyan;
+    border-width: 10px;
+    border-color: rgb(135, 169, 243);
+    border-style: initial;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 15%;
+    padding-top: 3%;
+    padding-bottom: 3%;
 }
 .p1{border-width: 10px;
     border-color: blueviolet;
@@ -20,6 +28,22 @@ h1{color: black;
 .p1{background-color: aqua;
 }
 .p4{color: darkorchid;
+    border-width: 10px;
+    border-color: rgb(170, 82, 253);
+    border-style: dotted;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 15%;
+    padding-top: 3%;
+    padding-bottom: 3%
 }
 .p2{color: aquamarine;
+    border-width: 10px;
+    border-color: rgb(68, 241, 247);
+    border-style: groove;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 15%;
+    padding-top: 3%;
+    padding-bottom: 3%
 }
