@@ -8,10 +8,10 @@ h1{color: black;
     border-width: 10px;
     border-color: rgb(135, 169, 243);
     border-style: initial;
-    margin-left: 20%;
-    margin-right: 20%;
-    padding-left: 15%;
-    padding-top: 3%;
+    margin-left: 23%;
+    margin-right: 22%;
+    padding-left: 11%;
+    padding-top: 31%;
     padding-bottom: 3%;
 }
 .p1{border-width: 10px;
@@ -21,7 +21,7 @@ h1{color: black;
     margin-right: 20%;
     padding-left: 15%;
     padding-top: 3%;
-    padding-bottom: 3%;
+    padding-bottom: 31%;
 }
 
 .p1{background-color: aqua;
@@ -30,19 +30,19 @@ h1{color: black;
     border-width: 10px;
     border-color: rgb(170, 82, 253);
     border-style: dotted;
-    margin-left: 20%;
+    margin-left: 29%;
     margin-right: 20%;
     padding-left: 15%;
-    padding-top: 3%;
+    padding-top: 32%;
     padding-bottom: 3%
 }
 .p2{color: aquamarine;
     border-width: 10px;
     border-color: rgb(68, 241, 247);
     border-style: groove;
-    margin-left: 20%;
+    margin-left: 25%;
     margin-right: 20%;
     padding-left: 15%;
-    padding-top: 3%;
+    padding-top: 30%;
     padding-bottom: 3%
 }
